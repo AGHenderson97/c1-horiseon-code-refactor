@@ -1,7 +1,5 @@
 # m1c-horiseon-code-refactor
 
-Summary: Refactor an existing site to make it more accessible.
-
 User Story:
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
